@@ -1,6 +1,6 @@
 <?php
 
-namespace Benbraide\LaravelTraits;
+namespace Benbraide\LaravelModelTraits;
 
 use Illuminate\Support\Str;
 

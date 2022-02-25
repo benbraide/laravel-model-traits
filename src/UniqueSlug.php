@@ -1,6 +1,6 @@
 <?php
 
-namespace Benbraide\LaravelTraits;
+namespace Benbraide\LaravelModelTraits;
 
 trait UniqueSlug{
     public static function bootUniqueSlug(){
