@@ -1,0 +1,18 @@
+{
+    "name": "benbraide/model-traits",
+    "description": "Use traits to add functionality to your models - e.g. slugs, unique slugs, unique IDs",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "benbraide",
+            "email": "benbraide@yahoo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Benbraide\\LaravelTraits\\": "src/"
+        }
+    }
+}
